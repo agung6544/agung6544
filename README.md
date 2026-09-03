@@ -26,44 +26,104 @@ I enjoy turning ideas and designs into functional digital products and continuou
 
 ## 🛠️ Tech Stack
 
-### Frontend & Web
+### 🌐 Web Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+#### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Mobile Development
+#### Backend & API
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+
+---
+
+### 📱 Mobile Development
+
+#### Framework & Language
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6C63FF?style=for-the-badge\&logo=flutter\&logoColor=white)
 
-### Other Technologies
+#### Mobile Development Skills
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+* 📱 Cross-platform Mobile Development
+* 🎨 Responsive UI Implementation
+* 🧩 State Management
+* 🧭 Navigation & Routing
+* 🔗 REST API Integration
+* 💾 Local Data Storage
+* 🔐 Application Data Handling
+* 🐛 Debugging & Testing
+
+---
+
+### 🗄️ Database & Data
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+
+* Database Design
+* CRUD Operations
+* SQL Queries
+* Relational Database
+* API & Database Integration
 
 ---
 
-## 💼 Experience
+### ⚙️ Tools & Development Environment
 
-### Frontend Developer Intern
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-**CV Digisolf Technology Consulting**
-*October 2025 – January 2026*
-
-During my internship, I worked on developing and maintaining responsive web and mobile interfaces.
-
-**Responsibilities:**
-
-* Developed responsive and user-friendly web & mobile interfaces.
-* Translated UI designs into functional applications.
-* Worked with **React, Flutter, and FlutterFlow**.
-* Integrated APIs and implemented application state management.
-* Performed testing and debugging.
-* Collaborated with the team to implement features based on project requirements.
+* Git & GitHub
+* Version Control
+* Docker
+* Visual Studio Code
+* API Testing
+* Debugging
 
 ---
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+---
+
+### 🧠 Development Skills
+
+* 🎨 UI/UX Implementation
+* 📱 Responsive Web & Mobile Design
+* 🔗 REST API Integration
+* 🗃️ Database Integration
+* 🧩 State Management
+* 🧭 Routing & Navigation
+* 🐛 Testing & Debugging
+* 🔧 Problem Solving
+* 📦 Component-Based Development
+* 🔄 Version Control with Git
+* 🤝 Team Collaboration
 
 ## 📌 Featured Projects
 
