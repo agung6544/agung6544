@@ -16,10 +16,10 @@
   <a href="mailto:agung.nainggolan8008@gmail.com">
     <img src="https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/agungderiko-nainggolan/">
     <img src="https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=EF4444" alt="LinkedIn" />
   </a>
-  <a href="#">
+  <a href="https://myportoagung.my.canva.site/">
     <img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=About.me&logoColor=EF4444" alt="Portfolio" />
   </a>
 
