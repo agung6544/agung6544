@@ -78,7 +78,6 @@
   <b>IDEs, Tools & Workflow</b><br />
   <img src="https://img.shields.io/badge/VS_Code-18181b?style=for-the-badge&logo=visualstudiocode&logoColor=EF4444" />
   <img src="https://img.shields.io/badge/Android_Studio-18181b?style=for-the-badge&logo=androidstudio&logoColor=EF4444" />
-  <img src="https://img.shields.io/badge/Visual_Studio-18181b?style=for-the-badge&logo=visualstudio&logoColor=EF4444" />
   <img src="https://img.shields.io/badge/GoLand-18181b?style=for-the-badge&logo=goland&logoColor=EF4444" />
   <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=EF4444" />
   <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=EF4444" />
