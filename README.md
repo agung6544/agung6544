@@ -29,13 +29,28 @@
 
 ### 🚀 About Me
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding GIF" />
-
-* 🎓 **Education:** D4 Teknik Informatika — Universitas Logistik dan Bisnis Internasional (ULBI)
-* 🎯 **Focus:** Frontend Web & Mobile Development
-* 🏆 **GPA:** 3.67 / 4.00 (2022 – 2026)
-* 💡 **Passionate about:** Crafting intuitive UI/UX, responsive layouts, and modern web applications.
-* ⚡ **Fun Fact:** Always eager to explore machine learning integration and performance optimization!
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        👋 Hi! Saya <b>Agung Deriko Nainggolan</b>, seorang Software Engineer yang berfokus pada <b>Frontend Web & Mobile Development</b>. Saya berdedikasi untuk menciptakan antarmuka pengguna yang responsif, intuitif, dan berkinerja tinggi.
+      </p>
+      <ul>
+        <li>🎓 <b>Pendidikan:</b> D4 Teknik Informatika — Universitas Logistik dan Bisnis Internasional (ULBI)</li>
+        <li>🏆 <b>IPK:</b> 3.67 / 4.00 (2022 – 2026)</li>
+        <li>🎯 <b>Fokus Utama:</b> Responsive UI/UX, Component-Driven Development, & API Integration</li>
+        <li>🧠 <b>Minat Riset:</b> Integrasi Machine Learning (XGBoost) pada Sistem Point of Sales</li>
+        <li>🌱 <b>Sedang Dipelajari:</b> Tingkat lanjut arsitektur Flutter & Optimasi Performa Web</li>
+      </ul>
+      <br />
+      <img src="https://img.shields.io/badge/Open_to_Work-38BDF8?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Based_in-Indonesia-00F2FE?style=flat-square&logo=googlemaps&logoColor=white" />
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
