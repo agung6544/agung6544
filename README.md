@@ -71,25 +71,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| 🔹 **Syncroapp** | React / Flutter | Personal Project focused on seamless task management and synchronization. |
-| 🔹 **Sampahku** | React / Mobile | Digital solution for smart waste management and eco-friendly tracking. |
-| 🔹 **Chicken Holic** | Web & API Integration | Point-of-sales & inventory dashboard for food sales management. |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=100&section=footer" width="100%" />
 </div>
