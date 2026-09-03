@@ -32,9 +32,6 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <p>
-        👋 Hi! Saya <b>Agung Deriko Nainggolan</b>, seorang Software Engineer yang berfokus pada <b>Frontend Web & Mobile Development</b>. Saya berdedikasi untuk menciptakan antarmuka pengguna yang responsif, intuitif, dan berkinerja tinggi.
-      </p>
       <ul>
         <li>🎓 <b>Pendidikan:</b> D4 Teknik Informatika — Universitas Logistik dan Bisnis Internasional (ULBI)</li>
         <li>🏆 <b>IPK:</b> 3.67 / 4.00 (2022 – 2026)</li>
