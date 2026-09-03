@@ -26,104 +26,88 @@ I enjoy turning ideas and designs into functional digital products and continuou
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web Development
+### 🌐 Web Development — Core Skill
 
-#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+**Skills:**
+- Responsive Web Development
+- Component-Based Development
+- UI Implementation
+- State Management
+- Routing
+- REST API Integration
+- Debugging & Testing
 
-#### Backend & API
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+### 📱 Mobile Development — Core Skill
 
-#### Database
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6C63FF?style=for-the-badge&logo=flutter&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+**Skills:**
+- Cross-Platform Mobile Development
+- Responsive Mobile UI
+- State Management
+- Navigation & Routing
+- REST API Integration
+- Local Data Storage
+- Debugging & Testing
 
----
 
-### 📱 Mobile Development
+### ⚙️ Backend Development — Side Skill
 
-#### Framework & Language
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6C63FF?style=for-the-badge\&logo=flutter\&logoColor=white)
+**Skills:**
+- REST API Development
+- Backend Application Development
+- CRUD Operations
+- API Integration
+- Server-Side Logic
+- Database Integration
 
-#### Mobile Development Skills
 
-* 📱 Cross-platform Mobile Development
-* 🎨 Responsive UI Implementation
-* 🧩 State Management
-* 🧭 Navigation & Routing
-* 🔗 REST API Integration
-* 💾 Local Data Storage
-* 🔐 Application Data Handling
-* 🐛 Debugging & Testing
+### 🗄️ Database — Supporting Skill
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Database & Data
+**Skills:**
+- SQL
+- Database Design
+- CRUD Operations
+- Relational Database
+- NoSQL Database
+- Database & API Integration
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
 
-* Database Design
-* CRUD Operations
-* SQL Queries
-* Relational Database
-* API & Database Integration
+### 🔧 Tools
 
----
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ⚙️ Tools & Development Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-* Git & GitHub
-* Version Control
-* Docker
-* Visual Studio Code
-* API Testing
-* Debugging
-
----
-
-### 💻 Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
----
-
-### 🧠 Development Skills
-
-* 🎨 UI/UX Implementation
-* 📱 Responsive Web & Mobile Design
-* 🔗 REST API Integration
-* 🗃️ Database Integration
-* 🧩 State Management
-* 🧭 Routing & Navigation
-* 🐛 Testing & Debugging
-* 🔧 Problem Solving
-* 📦 Component-Based Development
-* 🔄 Version Control with Git
-* 🤝 Team Collaboration
+- Git & GitHub
+- API Testing with Postman
+- Docker
+- Visual Studio Code
+- GoLand
+- Android Studio
 
 ## 📌 Featured Projects
 
