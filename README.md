@@ -80,8 +80,8 @@ Frontend Development — Personal Project
 ## 📫 Let's Connect
 
 📧 **Email:** agung.nainggolan8008@gmail.com  
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)  
-🌐 **Portfolio:** [Visit my Portfolio](YOUR_PORTFOLIO_URL)
+💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/agungderiko-nainggolan)  
+🌐 **Portfolio:** [Visit my Portfolio](https://myportoagung.my.canva.site/)
 
 ---
 
