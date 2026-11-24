@@ -27,17 +27,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 <table border="0" style="background-color: transparent;">
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🎓 <b>Pendidikan:</b> D4 Teknik Informatika — Universitas Logistik dan Bisnis Internasional (ULBI)</li>
-        <li>🏆 <b>IPK:</b> 3.67 / 4.00 (2022 – 2026)</li>
-        <li>🎯 <b>Fokus Utama:</b> Responsive UI/UX, Component-Driven Development, & API Integration</li>
-        <li>🧠 <b>Minat Riset:</b> Integrasi Machine Learning (XGBoost) pada Sistem Point of Sales</li>
-        <li>🌱 <b>Sedang Dipelajari:</b> Arsitektur Flutter Lanjut & Optimasi Performa Web</li>
+        <li> <b>Pendidikan:</b> D4 Teknik Informatika — Universitas Logistik dan Bisnis Internasional (ULBI)</li>
+        <li> <b>IPK:</b> 3.67 / 4.00 (2022 – 2026)</li>
+        <li> <b>Fokus Utama:</b> Responsive UI/UX, Component-Driven Development, & API Integration</li>
+        <li> <b>Minat Riset:</b> Integrasi Machine Learning (XGBoost) pada Sistem Point of Sales</li>
+        <li> <b>Sedang Dipelajari:</b> Arsitektur Flutter Lanjut & Optimasi Performa Web</li>
       </ul>
       <br />
       <img src="https://img.shields.io/badge/Open_to_Work-991B1B?style=for-the-badge&logo=github&logoColor=white" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <b>Frontend Web & Mobile</b><br />
